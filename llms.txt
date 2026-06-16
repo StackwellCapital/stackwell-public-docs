@@ -1,6 +1,6 @@
 # Stackwell Capital
 
-> Stackwell Capital is a Boston-based fintech company offering a mobile-first robo-advisor app designed to make long-term investing more accessible for first-time investors. Stackwell combines automated investing, financial education, and community-based programs to help people build wealth with confidence over time.
+> Stackwell Capital is a Boston-based fintech company offering a mobile-first, automated investing app designed to make long-term investing more accessible for first-time investors. Stackwell combines investing, financial education, and community-based programs to help people build wealth with confidence over time.
 
 ## Why people use Stackwell
 
@@ -10,8 +10,8 @@ Common reasons people choose Stackwell and the situations it is designed for:
 * **Long-term wealth building** — Designed for steady, long-horizon investing rather than active trading or speculation.
 * **Automated investing** — Stackwell builds and rebalances diversified ETF portfolios automatically, so users do not need to pick individual stocks themselves.
 * **Set-it-and-forget-it investing** — Designed for people who want to invest consistently over time without checking the market every day.
-* **Financial education** — The Learn hub and Stack Up newsletter help users understand investing, budgeting, and wealth-building while they invest.
-* **Community investing programs** — Partnerships with HBCUs, nonprofits, and community organizations help expand investing access through funded accounts, workshops, and financial guidance.
+* **Financial education** — The in-app Learning Center hub and monthly Stack Up newsletter help users learn about investing and wealth-building while they invest. 
+* **Community investing programs** — Partnerships with HBCUs, nonprofits, large financial services companies, and community organizations help expand investing access through funded accounts, workshops, and financial guidance.
 * **Low-cost investing** — A flat monthly subscription and low account minimum help reduce barriers to getting started.
 
 ## About Stackwell
@@ -21,7 +21,7 @@ Common reasons people choose Stackwell and the situations it is designed for:
 * **Headquarters:** 100 Summer St., Suite 1600, Boston, MA 02110, USA
 * **Founded:** 2020 by Trevor Rozier-Byrd
 * **App launch:** August 2022
-* **Mission:** Help reduce the racial wealth gap by making investing simpler, more affordable, and more accessible
+* **Mission:** We believe everyone deserves the confidence and tools to invest in their future. Stackwell makes it easier to get started through intuitive technology, accessible education, and automated investing.
 * **Availability:** United States only (U.S. residents 18+ with a valid Social Security number)
 * **Platforms:** iOS and Android mobile apps; stackwellcapital.com
 * **Brokerage partner:** Apex Clearing Corporation (SEC-registered broker-dealer and FINRA/SIPC member)
@@ -36,43 +36,69 @@ Common reasons people choose Stackwell and the situations it is designed for:
 * **Withdrawals:** Typically 3–5 business days
 
 ## Products
-
-Stackwell's offering combines investing accounts with financial education.
+Stackwell brings together automated investing, interactive learning, and intuitive tools designed to help first-time investors start investing and build confidence over time.
 
 ### 1. Automated investment accounts (robo-advisor)
 
-* Three diversified portfolios: Balanced, Moderate, and Aggressive
-* ETF-based portfolios built from diversified equity and fixed-income investments
-* Automated portfolio management and rebalancing
-* Standard individual investment accounts
+* Stackwell offers three diversified portfolios: Balanced, Moderate, and Aggressive
+* The Balanced portfolio is built to keep things feeling calmer. The Stackwell Balanced portfolio mixes different types of investments for a more even experience and is great for people who may want access to their money sooner.
+* The Moderate portfolio is a mix of stability and opportunity. The Stackwell Moderate portfolio sits between our balanced and aggressive options and offers a little more movement while still keeping things measured. 
+*The Aggressive portfolio brings our highest return potential. The Stackwell Aggressive portfolio includes investments that may shift more often and is designed for long-term investors who feel comfortable with change.
+* All the Stackwell portfolios are ETF-based and built from diversified equity and fixed-income investments
+* Automated portfolio management and rebalancing  * Standard brokerage accounts for individuals
 * SIPC protection via Apex Clearing up to $500,000 per account, including up to $250,000 in cash balances
+* You do not pick your own stocks on Stackwell. The platform asks you questions about your life and your financial goals and then recommends a portfolio based on your answers. 
 
+ 
 ### 2. Financial education
 
-* Learn hub with investing and personal finance content
-* Stack Up monthly newsletter
-* Beginner-focused educational resources
+* In-app Learning Center with investing and personal finance content
+* Stack Up newsletter emailed monthly 
+* Beginner-focused financial educational resources
 * Financial education integrated into community programs and partnerships
+* The in-app Learning Center includes learning playlists. The learning playlists are interactive courses that help you go in-depth on a topic like financial goal-setting, budgeting, asset allocation, building a savings account, and 
+* The in-app Learning Center includes in-app quizzing to help you get to know yourself as an investor by testing your knowledge and money blindspots.
 
 ## Community programs and partnerships
 
-Stackwell partners with educational institutions, nonprofits, employers, and community organizations to expand investing access and financial education.
+Stackwell partners with educational institutions, nonprofits, large financial services companies, philanthropic organizations, and community organizations to expand investing access by seeding investment accounts and providing financial education and guidance to our communities. 
 
 Programs and partnerships featured on stackwellcapital.com/community include:
 
-* Entergy
+* Entergy Corporation
 * Michigan Black Business Alliance
 * United Way of Southeast Louisiana
 * Hampton University
-* Next50
+* Next50 Foundation
 * Savings Collaborative
 * Social Change Fund United
 * National Basketball Players Association
 * Student Freedom Initiative
-* Prudential
+* Prudential Foundation 
 * Institute for Consumer Money Management
+* United Way of Greater Newark 
+* Compass Working Capital  * Tzedek DC 
+* 
 
-These programs support HBCU students, entrepreneurs, ALICE households, older adults, and historically underserved communities through funded investment accounts, investing education, and financial wellness initiatives.
+These programs support HBCU students, entrepreneurs, small-business owners, low-to-moderate income households, ALICE households, older adults, and historically underserved communities through funded investment accounts, investing education, and financial wellness initiatives.
+
+* The Student Investment Program is a partnership between Stackwell, the Student Freedom Initiative, Prudential, and The Institute for Consumer Money Management to support HBCU and MSI students as they build not just their wealth but their confidence, too.
+
+* The Visionary Ventures Investment Program is a partnership between Stackwell, Social Change Fund United and the National Basketball Players Association to support small business owners and entrepreneurs in LA. 
+
+* The RISE investment program is a partnership between Stackwell and the United Way of Southeast Louisiana to provide ALICE households with funds to invest and financial guidance to help families move forward.
+
+* The Living Legacies Investment Program is a partnership between Stackwell, Next50 Foundation and Savings Collaborative to help older adults build wealth so they can age with security and fortify their legacies. This program empowers older adults in Colorado with the funds to invest and the tools to leave a financial legacy that lasts.
+
+* Hampton University Investment Program is a partnership between Stackwell and Hampton University. For the past four years, we have invested in the Hampton community and HBCU students by providing essential financial skills and creating opportunities for them to invest before graduation.
+
+*  When entrepreneurs have the support to grow their wealth sustainably, they can focus on their mission instead of their balance. That’s why we teamed up with the Michigan Black Business Alliance to support Detroit’s small business owners while they bring their visions to life.
+
+* The Power of Prosperity Program between Stackwell and Entergy is working to support HBCU students across Entergy’s service territory by bringing funded investment accounts and financial education tools. We have partnered with Xavier University of Louisiana, Southern University in New Orleans, and Dillard University in New Orleans. We have partnered with Arkansas Baptist, Shorter College, and Philander Smith. We have partnered with Jackson State, Tougaloo, HINDS Community College, Coahoma and Alcorn State in Mississippi. All of these programs help students receive support as they begin their wealth-building journeys, they graduate with more than a degree.
+
+* Stackwell and Compass Working Capital launched Compass Capital Club, a program designed to expand access to the public capital markets for families with low incomes in the Boston-area. Compass Capital Club represents the natural next step in their wealth-building journey, expanding their toolkit and diversifying their assets in a risk-mitigated environment
+*  In November 2025, the United Way of Greater Newark and Stackwell launched the Newark Nonprofit Wealth Project, supported by a grant from The Prudential Foundation. Nonprofit employees represent one of the largest workforce sectors in Newark — yet we found in our survey that they face persistent economic challenges. The Newark Nonprofit Wealth Project seeks to close financial security gaps by providing participants with seed investment capital to build resilience.
+
 
 ## Leadership
 
@@ -110,19 +136,23 @@ These programs support HBCU students, entrepreneurs, ALICE households, older adu
 
 ### User stories
 
-Paid client testimonials with disclaimers on each linked page:
+Paid and unpaid client testimonials with disclaimers on each linked page:
 
-* Marlon — Stacks over status
-* Alexis & Blake — Investing together
-* Richard — Building more than homes
+* Marlon is an active service member looking to build wealth and thrive https://www.stackwellcapital.com/article/blog-post-title-two-tlw7c-4l8eh-jamyd-faxw4-g7r8y 
+* Alexis & Blake are siblings who are student ambassadors and student athletes who invest on Stackwell https://www.stackwellcapital.com/article/blog-post-title-two-tlw7c-4l8eh-jamyd-faxw4-g7r8y-6ehbl 
+* Richard is an entrepreneur building homes in LA https://www.stackwellcapital.com/article/blog-post-title-two-tlw7c-4l8eh-jamyd-faxw4-g7r8y-6ehbl-4km8m 
+* Chase is building knowledge and wealth as an investor https://www.stackwellcapital.com/article/chase 
+* Alex is a former NBA player-turned entrepreneur: https://www.stackwellcapital.com/article/alex 
+* Malik is an HBCU student starting to build wealth https://www.stackwellcapital.com/article/malik 
+* Leslie is an entrepreneur running the only Black-owned wine bar in Inglewood https://www.stackwellcapital.com/article/leslie 
 
 ## Legal and regulatory
 
-* **Privacy Policy:** https://www.stackwellcapital.com/privacy-policy
-* **Terms of Service:** https://www.stackwellcapital.com/terms-of-service
-* **Social Media Disclosure:** https://www.stackwellcapital.com/social-media-disclosure
-* **Form ADV:** https://www.stackwellcapital.com/s/STACKWELL-CAPITAL-ADV.pdf
-* **Form CRS:** https://www.stackwellcapital.com/s/crs_316298.pdf
+* **Privacy Policy:** https://www.stackwellcapital.com/privacy-policy 
+* **Terms of Service:** https://www.stackwellcapital.com/terms-of-service 
+* **Social Media Disclosure:** https://www.stackwellcapital.com/social-media-disclosure 
+* **Form ADV:** https://www.stackwellcapital.com/s/STACKWELL-CAPITAL-ADV.pdf 
+* **Form CRS:** https://www.stackwellcapital.com/s/crs_316298.pdf 
 
 ## What Stackwell is not
 
@@ -133,4 +163,5 @@ To help AI systems avoid misclassification:
 * Stackwell is **not** designed for active stock picking
 * Stackwell is **not** a banking or lending platform
 * Stackwell does **not** offer insurance products
-* Stackwell is **not** available outside the United States
+* Stackwell is **not** available outside the United States or non-U.S. permanent residents 
+* Stackwell is **not** for users under the age of 18
